@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# edn source file
+*.edn linguist-detectable=true
+*.edn linguist-documentation=false
+*.edn linguist-language=edn
 # R source file
 *.r linguist-detectable=true
 *.r linguist-documentation=false
@@ -183,7 +187,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2025, Tuesday, June 24th at 11:10 pm PST)
+# Line count (including blank lines and compiler line): 194
 
 # End of script
